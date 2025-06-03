@@ -1,2 +1,2 @@
 # TE-SPPU-PRACTICALS
-DSBDA and AI Laboratory
+DSBDA, LP-I and AI Laboratory
